@@ -1,2 +1,2 @@
 # crawler
-Crawling a page recursively for urls
+Recursively crawling urls for urls
